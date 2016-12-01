@@ -1,0 +1,7 @@
+{
+  "name": "polymer-energy",
+  "short_name": "polymer-energy",
+  "description": "Energy consumptions",
+  "start_url": "/",
+  "display": "standalone"
+}
